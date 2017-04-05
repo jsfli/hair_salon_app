@@ -61,4 +61,6 @@ describe(Client) do
     end
   end
 
+  #CRUDL functionalities done
+
 end #end of Client test
