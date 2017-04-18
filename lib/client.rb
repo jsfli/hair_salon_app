@@ -51,3 +51,7 @@ class Client
     DB.exec("DELETE FROM clients where id=#{self.id};")
   end
 end # end of client class
+
+  define_method(:reset) do
+    
+  end

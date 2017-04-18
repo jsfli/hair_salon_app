@@ -64,3 +64,11 @@ class Stylist
   end
 
 end
+
+def what_we_should_start_doing
+  week = 9
+    until week == 16 do
+      puts "please refer to my previous feedback comments"
+      week += 1
+    end
+end
